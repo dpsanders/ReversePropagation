@@ -14,7 +14,7 @@ Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
 
 [compat]
 ChainRules = "0.7"
-ChainRulesCore = "0.9.44, 0.10"
+ChainRulesCore = "0.9.44, 0.10, 1"
 IntervalArithmetic = "0.17, 0.18"
 IntervalContractors = "0.4"
 OrderedCollections = "1.4"
